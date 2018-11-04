@@ -3,3 +3,4 @@ tweede zin
 derde zin
 vierde zin
 vijfde regel
+merge conflict
